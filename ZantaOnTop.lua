@@ -12,7 +12,7 @@ local args = {
             ["Epic"] = false,
             ["ShinyLegendary"] = false,
             ["ShinyCommon"] = false,
-            ["Legendary"] = false
+            ["0/0"] = false
         },
         ["CriticalHits"] = true,
         ["ChatAnnouncements"] = {
@@ -25,7 +25,7 @@ local args = {
             ["Epic"] = false,
             ["ShinyLegendary"] = false,
             ["ShinyCommon"] = false,
-            [string.rep("B", 6000000)] = true
+            [nil] = true
         },
         ["Flash"] = true,
         ["LowQuality"] = false,
