@@ -25,7 +25,9 @@ local args = {
             ["Epic"] = false,
             ["ShinyLegendary"] = false,
             ["ShinyCommon"] = false,
-            [nil] = true
+            [nil] = true,
+            [nil] = true,
+            [nil] = false
         },
         ["Flash"] = true,
         ["LowQuality"] = false,
